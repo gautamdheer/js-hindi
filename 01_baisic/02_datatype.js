@@ -14,6 +14,8 @@ let isLoggedIn = false;
 // undefined => 
 // symbol => unique
 
+// object
+
 
 console.log(3+5);
 console.log(typeof(isLoggedIn));

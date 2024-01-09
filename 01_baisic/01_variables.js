@@ -4,6 +4,7 @@ var accountPassword = 322323
 
 accountCity = "Delhi"
 
+
 accountEmail = "test@google.com"
 accountPassword = 494949494
 let accountState=null;
@@ -15,3 +16,4 @@ because of issue in block scope and function
 
 
 console.table([accountId,accountEmail,accountPassword,accountCity,accountState]);
+console.log(accountId);
