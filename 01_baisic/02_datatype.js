@@ -4,10 +4,19 @@
 let score = 20
 let name = "gautam"
 let isLoggedIn = false;
+ 
+
+// number =>2 to power 53
+// bigint 
+// string => ""
+// boolen => true/false
+// null => standalone value
+// undefined => 
+// symbol => unique
 
 
 console.log(3+5);
-console.log(isLoggedIn);
+console.log(typeof(isLoggedIn));
 console.log(name);
  
 // primitivr data type 
