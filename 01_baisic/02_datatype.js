@@ -33,4 +33,4 @@ console.log(name);
 // object
 console.log(typeof undefined); // undefined
 console.log(typeof null);  // object
-
+console.log("Changes for the javascript codespace...")
