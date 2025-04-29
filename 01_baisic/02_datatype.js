@@ -4,7 +4,9 @@
 let score = 20
 let name = "gautam"
 let isLoggedIn = false;
- 
+
+let boooleanLoggendIn = Boolean(isLoggedIn)
+// console.log("checking boolean conversion -----", typeof(boooleanLoggendIn));
 
 // number =>2 to power 53
 // bigint 
@@ -16,9 +18,11 @@ let isLoggedIn = false;
 // object
 
 
-console.log(3+5);
-console.log(typeof(isLoggedIn));
-console.log(name);
+// console.log(3+5);
+// console.log(typeof(isLoggedIn));
+// console.log(name);
+
+
  
 // primitivr data type 
 // String => ""
@@ -30,6 +34,38 @@ console.log(name);
 // Symbol => unique
 
 // object
-console.log(typeof undefined); // undefined
-console.log(typeof null);  // object
-console.log("Changes for the javascript codespace...", score) // working fine 
+// console.log(typeof undefined); // undefined
+// console.log(typeof null);  // object
+
+
+let newScore  = false
+
+let valueNumber = Number(newScore)
+// console.log(typeof valueNumber)
+
+
+// "33" => 33
+// "33abc" = > NaN
+
+let isUserLoggedIn = null
+
+let booleanIsLoggedIn = Boolean(isUserLoggedIn)
+
+console.log(booleanIsLoggedIn)
+
+// 1 = > true
+// 0 = > false
+// "" = > false
+// " " = > true
+
+let someNumber = 33
+ 
+let stringNumber = String(someNumber)
+console.log(typeof(stringNumber))
+
+
+
+
+ 
+
+
