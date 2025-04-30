@@ -66,6 +66,3 @@ console.log(typeof(stringNumber))
 
 
 
- 
-
-
