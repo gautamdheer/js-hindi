@@ -23,6 +23,6 @@ console.log(typeof(stringNumber)) // string
 // // 15. In operation
 // // 16. Delete operation
 
-
+console.log(40+30);
 
 
