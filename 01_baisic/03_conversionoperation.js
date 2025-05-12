@@ -25,4 +25,7 @@ console.log(typeof(stringNumber)) // string
 
 console.log(40+30);
 
+console.log(Math() + 1);
+
+
 
